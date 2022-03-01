@@ -1,0 +1,2 @@
+#!/bin/bash
+elm make src/Niqud.elm  --output out/elm.js
