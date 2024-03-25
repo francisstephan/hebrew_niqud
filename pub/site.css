@@ -19,8 +19,18 @@ body {
   padding-right:40%;
 }
 
-main {
+td{
+  font-weight: bold;
+}
 
+p.ref{
+  font-size: 14px;
+  color:black;
+}
+
+p.ref a{
+  color: black;
+  text-decoration: underline;
 }
 
 h1, h2, h3 {
@@ -56,7 +66,7 @@ td{
   padding-left:2px; padding-right:2px ; text-align:center;
 }
 td.s{
-  font-size:12px; color:red; width:40px;
+  font-size:11px; color:red;
 }
 td.b{font-size:2em; padding-top:5px;text-align:left;}
 

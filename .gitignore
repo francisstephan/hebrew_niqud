@@ -1,0 +1,9 @@
+out/
+elm-stuff/
+/index.html
+pub/app.js
+/polytonic.odt
+*.back
+/memoFS
+/heb_unicode.txt
+
